@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+  .toolbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #000000;
+    color: white;
+    font-weight: 600;
+  }
+
+  .toolbar img {
+    margin: 0 16px;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+  }
+
+  .toolbar #twitter-logo {
+    height: 40px;
+    margin: 0 16px;
+  }
+
+  .content{
+    margin-top: 100px;;
+  }
+
+  .cards-card-cancel{
+    margin-left: .5em;
+  }
+
+  .cards-card-header{
+    width: 360px;
+  }
+
+  .cards-card{
+    width: 25rem;
+    margin-bottom: 2em;
+  }
+
+  
